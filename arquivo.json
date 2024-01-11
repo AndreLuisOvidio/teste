@@ -1,0 +1,45 @@
+{
+    "_id": "65a07be14f5869e2d1e18b6d",
+    "index": 0,
+    "guid": "e585d191-8921-4526-ad3e-ac7adb51b2c8",
+    "isActive": false,
+    "balance": "$1,838.88",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "brown",
+    "name": "Perry Goff",
+    "gender": "male",
+    "company": "ELEMANTRA",
+    "email": "perrygoff@elemantra.com",
+    "phone": "+1 (848) 499-2916",
+    "address": "252 Kingston Avenue, Bagtown, Idaho, 8801",
+    "about": "Amet velit qui nulla est eiusmod culpa nostrud id excepteur labore cillum ut excepteur. Magna pariatur aliquip nostrud ut elit labore voluptate aliquip. Ipsum ut elit excepteur aute veniam. Do qui exercitation magna eiusmod irure tempor reprehenderit aute aliqua reprehenderit do Lorem amet sunt. Incididunt veniam minim nulla irure excepteur irure aliqua consectetur Lorem quis proident. Nisi dolor incididunt anim dolor proident deserunt dolore amet veniam nostrud in.\r\n",
+    "registered": "2019-06-04T01:20:53 +03:00",
+    "latitude": 36.3986,
+    "longitude": -141.03312,
+    "tags": [
+      "elit",
+      "ut",
+      "dolore",
+      "eu",
+      "esse",
+      "officia",
+      "laboris"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Stark Zamora"
+      },
+      {
+        "id": 1,
+        "name": "Myers Hamilton"
+      },
+      {
+        "id": 2,
+        "name": "Belinda Burns"
+      }
+    ],
+    "greeting": "Hello, Perry Goff! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  }
